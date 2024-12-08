@@ -1,24 +1,4 @@
 # RestaurantFinder Application
-
-## Team Name: ABHR
-
-| **Team Member**                | **SJSU ID**   |
-|--------------------------------|---------------|
-| **Venkata Sai Sri Harsha Kata**| 017604522     |
-| **Anuraag Ramineni**           | 018196100     |
-| **Rishita Konda**              | 017583943     |
-| **Bhavika Sodagum**            | 017506567     |
-
-
-# Team Members and Contributions
-
-| **Team Member** | **Contribution** |
-|------------------|------------------|
-| **Anuraag**     | - Scrum Master and Frontend/Backend implementation.<br>- Designed class diagrams and database structure.<br>- Developed UI wireframes for Login and Home pages.<br>- Implemented backend for restaurant details, reviews, and listing management.<br>- Finalized and updated admin functionalities and deployed whole backend on aws.<br>- Consistently aligned frontend and backend integration with XP core values of **Feedback** and **Communication**. |
-| **Rishita**     | - Backend specialist and database architect.<br>- Designed and implemented database schema.<br>- Integrated backend and frontend functionalities.<br>- Focused on validation logic for business information and user authentication.<br>- Regularly collaborated with the team to refine features based on feedback.<br>- Adhered to XP core values of **Communication** and **Simplicity**. |
-| **Harsha**      | - Backend implementation and role-based access.<br>- Designed and developed restaurant management and owner roles.<br>- Finalized database relationships and integrated map api.<br>- Focused on validating and polishing backend features.<br>- Maintained simplicity and efficiency in implementation.<br>- Aligned closely with team efforts under XP values of **Feedback** and **Communication**. |
-| **Bhavika**     | - Frontend lead with a focus on user-centric design.<br>- Created user stories, acceptance criteria, and UI wireframes.<br>- Developed user and business owner roles.<br>- Designed and polished UI for restaurant listings and user profiles.<br>- Coordinated frontend-backend integration for seamless user experience.<br>- Focused on feedback-driven improvements and simplicity in design. |
-
 ## Tech Stack
 React.js, Java/Spring Boot, MySQL, AWS, OpenStreetMap API, Overpass service
 
@@ -46,24 +26,6 @@ React.js, Java/Spring Boot, MySQL, AWS, OpenStreetMap API, Overpass service
 - **Flexibility**: Advanced querying of geospatial data is supported, including things like finding nearby restaurants that are not listed by business owners.
 - **Compatibility**: Overpass works smoothly with OpenStreetMap, which provides consistent and reliable location-based functionality.
 
-
-## XP Core Values Maintained by Team 
-
-### Communication
-Effective communication was one of the major principles followed in our project. The regular sprint meeting helped to ensure that all the members were on par regarding their tasks and responsibilities. Team members had an open discussion of their status regarding progress, issues faced, and planning for the next step. This keeps everyone updated and resolves blockers together. Consistent communication also smoothed out the integration of the frontend and backend components and ensured our project met its goals efficiently.
-
-### Simplicity
-We have tried to keep the solutions simple and effective throughout the project. This approach included writing clean, modular code that was easy to read, maintain, and modify. Database schemas and backend logic were kept straightforward to meet project requirements without adding unnecessary complexity. Similarly, our UI was designed with simplicity in mind, ensuring it was intuitive and user-friendly for all roles: users, business owners, and admins. This value helped us minimize technical debt and kept the project scalable.
-
-### Feedback
-The team insisted on continuous feedback for the improvement of individual contributions and overall project quality. Continuous code reviews were carried out where every pull request was carefully reviewed before being merged to the main branch. Feedback loops during sprints allowed us to refine functionalities, enhance UI/UX designs, and address integration issues between modules. This feedback-driven approach would ensure that the project keeps evolving toward meeting user needs and requirements effectively.
-
-### Respect
-Respect was maintained within the team by valuing each member's ideas and contributions. During discussions and sprint retrospectives, everyone was encouraged to share their opinions, which fostered a positive and inclusive environment. Each member's expertise was acknowledged, and tasks were assigned based on individual strengths, ensuring that everyone felt valued and motivated to perform their best.
-
-### Courage
-Courage for this team was taken by owning different challenging tasks and resolving the blockers head-on, like handling complex integrations and performance tuning issues under tight deadlines. That means every team member did a jump out of their comfort zones as needed to learn new tools and technologies to make this project meet its technical and functional needs. Courage also played into ensuring timely completion of the sprints and overall project outcomes.
-
 ## Architecture Diagram
 ![Architecture Diagram](images/architecturediag.png)
 
@@ -75,10 +37,6 @@ Courage for this team was taken by owning different challenging tasks and resolv
 
 ## Deployment Diagram
 ![Deployment Diagram](images/Deploymentdiag.jpeg)
-
-
-
-
 
 
 ## Feature Set
@@ -180,10 +138,6 @@ Courage for this team was taken by owning different challenging tasks and resolv
 
 ### Searching by Location
 ![Searching by Location](UI%20Wireframes/Searching%20by%20Location.jpeg)
-
-## Sprint Burndown Chart
-
-[Click here to view the Sprint Burndown Chart](SprintTaskSheet-teamABHR.xlsx)
 
 ## Daily Scrum Sheet
 [Click here to view the Daily Scrum Sheet](DAILYSCRUMSHEET_TeamABHR.xlsx)
